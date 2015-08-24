@@ -1,0 +1,1 @@
+notifu.exe /p "Proxxi Login Client" /m "Inloggad som: Erik Welander" /d 5 /i Proxxi_Login_Client.exe,MAINICON /t info
